@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **Pnvijay250@gmail.com**
+- 📫 How to reach me **Pnvijay90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
