@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vijay pn" target="blank"><img src="https://img.shields.io/twitter/follow/vijay pn?logo=twitter&style=for-the-badge" alt="vijay pn" /></a> </p>
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **Pnvijay90@gmail.com**
 
