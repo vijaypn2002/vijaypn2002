@@ -10,13 +10,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaypn2002&show_icons=true&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=1F6FEB&title_color=8B949E&include_all_commits=true&count_private=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vijaypn2002&hide_border=true&theme=radical" height="165" />
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaypn2002&show_icons=true&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=1F6FEB&title_color=8B949E&include_all_commits=true&count_private=true&theme=radical" height="165" style="border-radius: 10px; animation: slideInLeft 1.5s ease;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vijaypn2002&hide_border=true&theme=radical" height="165" style="border-radius: 10px; animation: slideInRight 1.5s ease;" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypn2002&layout=compact&theme=radical&hide_border=true" />
+<p align="center" style="animation: zoomIn 2s ease;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypn2002&layout=compact&theme=radical&hide_border=true" style="border-radius: 10px;" />
 </p>
 
 <h2 align="center">🌟 About Me 🌟</h2>
@@ -29,7 +29,7 @@
 ---
 
 <h3 align="center">💼 Connect with Me</h3>
-<p align="center">
+<p align="center" style="animation: bounceIn 1.5s ease;">
   <a href="https://twitter.com/vijay_pn" target="_blank">
     <img src="https://img.shields.io/twitter/follow/vijay_pn?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -44,22 +44,65 @@
 ---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center">
+<p align="center" style="animation: fadeInUp 1.5s ease;">
   <img src="https://skillicons.dev/icons?i=python,django,react,html,css,javascript,mongodb,mysql,bootstrap,aws,figma,git,linux,photoshop" />
 </p>
 
 ---
 
 <h2 align="center">✨ GitHub Activity ✨</h2>
-<p align="center">
+<p align="center" style="animation: fadeIn 2s ease;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaypn2002&theme=radical" alt="GitHub Summary" />
 </p>
 
-<p align="center">
+<p align="center" style="animation: pulse 2s infinite;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaypn2002&theme=react-dark&hide_border=true&area=true&color=58A6FF" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 <h3 align="center">🎉 Let's Collaborate!</h3>
-<p align="center">I'm always open to new ideas and collaborations. Feel free to reach out for open-source projects, freelance work, or anything tech-related! Let’s build something awesome together. 🚀</p>
+<p align="center" style="animation: flash 1.5s infinite;">I'm always open to new ideas and collaborations. Feel free to reach out for open-source projects, freelance work, or anything tech-related! Let’s build something awesome together. 🚀</p>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  0% { transform: translateX(-100%); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes slideInRight {
+  0% { transform: translateX(100%); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes zoomIn {
+  0% { transform: scale(0.5); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes bounceIn {
+  0% { transform: scale(0.5); opacity: 0; }
+  60% { transform: scale(1.2); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@keyframes flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+</style>
