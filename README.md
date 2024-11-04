@@ -1,10 +1,5 @@
-
-
-Share
-
-You said:
-<h1 align="center">👋 Hello, I'm Vijay P N!</h1>
-<h2 align="center">🚀 Full Stack Developer | Python Enthusiast | React Expert</h2>
+<h1 align="center"> Hello, I'm Vijay P N!</h1>
+<h2 align="center"> Full Stack Developer | Python Enthusiast | React Expert</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300C9A7&lines=Welcome+to+my+GitHub+Universe;I'm+a+Full+Time+Coder;Passionate+about+Web+Development;Python+%7C+Django+%7C+React+%7C+JavaScript!" />
 </p>
